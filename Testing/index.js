@@ -24,6 +24,7 @@
 // };
 
 // return romanToInt("III")
+
 function roman(str)
 {
     let num = 0 
@@ -47,3 +48,19 @@ function roman(str)
 
 roman("III")
 
+// var addToArrayForm = function(num, k) {
+    
+//     let sum = 0;
+//     let out = 0;
+//     for(let i=0; i<num.length;i++)
+//     {
+//         sum = num[i];
+//          sum += k
+//     }
+//     // let myFunc = sum => Number(sum);
+//     // sum = Array.from(String(sum), myFunc)
+//     console.log(sum)
+    
+// };
+
+// addToArrayForm([1,2,6,3,0,7,1,7,1,9,7,5,6,6,4,4,0,0,6,3],516)
